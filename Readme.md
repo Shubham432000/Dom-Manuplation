@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](./Pic1.png)
+![Sample One](./image/dom34.png)
 
 ### Tasks
 
@@ -34,7 +34,7 @@ document.querySelector(
 
 ### Task
 
-![Store](./Picture_3.png)
+![Store](./image/dom38.png)
 
 ### Fetch all the product name and store in an array
 
@@ -60,7 +60,7 @@ console.log(data)
 
 ### Sample Image
 
-![Sample One](./Pic4.png)
+![Sample One](./image/dom35.png)
 
 ### Tasks
 
@@ -88,7 +88,7 @@ navbar.appendChild(section);
 
 ### Sample Image
 
-![Sample One](./Pic6.png)
+![Sample One](./image/dom36.png)
 
 ### Tasks
 
@@ -111,7 +111,7 @@ document.querySelector(".customer-support .one-tel-number").innerHTML =
 
 ### Sample Image
 
-![Sample One](./Pic8.png)
+![Sample One](./image/dom37.png)
 
 ### Tasks
 
@@ -135,7 +135,7 @@ document.querySelector(
 
 ### Sample Image
 
-![Sample One](./Pic10.png)
+![Sample One](./image/dom39.png)
 
 ### Tasks
 
@@ -183,7 +183,7 @@ document.getElementById("hp-search-form").submit()
 
 ### Sample Image
 
-![Sample One](./Pic14.png)
+![Sample One](./image/dom8.png)
 
 ### Tasks
 
@@ -191,7 +191,7 @@ document.getElementById("hp-search-form").submit()
 
 ### Output
 
-![Output](./Pic15.png)
+![Output](./image/dom9.png)
 
 ```js
 let langs = document.getElementById("SIvCob").childNodes;
@@ -208,7 +208,7 @@ for(let i = 3; i < langs.length; i++){
 
 ### Sample Image
 
-![Sample One](./Pic16.png)
+![Sample One](./image/dom10.png)
 
 ### Tasks
 
@@ -216,7 +216,7 @@ for(let i = 3; i < langs.length; i++){
 
 ### Output
 
-![Output](./Pic17.png)
+![Output](./image/dom11.png)
 ```js
 let heading = document.querySelector(".display-heading-1");
 heading.style.fontFamily = "monospace";
@@ -231,7 +231,7 @@ heading.style.color = "#ff1a1a";
 
 ### Sample Image
 
-![Sample One](./Pic18.png)
+![Sample One](./image//dom12.png)
 
 ### Tasks
 
@@ -239,7 +239,7 @@ heading.style.color = "#ff1a1a";
 
 ### Output
 
-![Output](./Pic19.png)
+![Output](./image/dom13.png)
 
 ```js
 let allbtn = document.querySelectorAll(".login-btn-text");
@@ -254,7 +254,7 @@ allbtn[1].style.backgroundColor = "#ed2fe9";
 
 ### Sample Image
 
-![Sample One](./Pic20.png)
+![Sample One](./image/dom14.png)
 
 ### Tasks
 
@@ -262,7 +262,7 @@ allbtn[1].style.backgroundColor = "#ed2fe9";
 
 ### Output
 
-![Output](./Pic21.png)
+![Output](./image/dom15.png)
 
 ```js
 let logo = document.getElementsByClassName("icon-logo")
@@ -277,7 +277,7 @@ logo[0].style.backgroundImage = "url('https://account.ineuron.ai/static/images/i
 
 ### Sample Image
 
-![Sample One](./Pic22.png)
+![Sample One](./image/dom16.png)
 
 ### Tasks
 
@@ -285,7 +285,7 @@ logo[0].style.backgroundImage = "url('https://account.ineuron.ai/static/images/i
 
 ### Output
 
-![Output](./Pic23.png)
+![Output](./image/dom17.png)
 
 ```js
 let btn = document.getElementsByClassName("btn btn-sm btn-primary");
@@ -301,7 +301,7 @@ bluebtn.style.backgroundColor = "#1d00ff";
 
 ### Sample Image
 
-![Sample One](./Pic24.png)
+![Sample One](./image/dom18.png)
 
 ### Tasks
 
@@ -309,7 +309,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic25.png)
+![Output](./image/dom19.png)
 
 ```js
 document.querySelector(".fl-heading .fl-heading-text").innerHTML ="JS bootcamp"
@@ -323,7 +323,7 @@ document.querySelector(".fl-heading .fl-heading-text").innerHTML ="JS bootcamp"
 
 ### Sample Image
 
-![Sample One](./Pic26.png)
+![Sample One](./image/dom20.png)
 
 ### Tasks
 
@@ -331,7 +331,7 @@ document.querySelector(".fl-heading .fl-heading-text").innerHTML ="JS bootcamp"
 
 ### Output
 
-![Output](./Pic27.png)
+![Output](./image/dom21.png)
 
 ```js
 document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px"
@@ -345,7 +345,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px"
 
 ### Sample Image
 
-![Sample One](./Pic28.png)
+![Sample One](./image/dom22.png)
 
 ### Tasks
 
@@ -353,7 +353,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px"
 
 ### Output
 
-![Output](./Pic29.png)
+![Output](./image/dom23.png)
 
 ```js
 let g15 = document.querySelectorAll(".ps-title");
@@ -374,7 +374,7 @@ for(i = 0; i < g15.length; i++){
 
 ### Sample Image
 
-![Sample One](./Pic30.png)
+![Sample One](./image/dom24.png)
 
 ### Tasks
 
@@ -382,7 +382,7 @@ for(i = 0; i < g15.length; i++){
 
 ### Output
 
-![Output](./Pic31.png)
+![Output](./image/dom25.png)
 
 ```js
 let head = document.querySelector(".section-title_title__VEDfK")
@@ -397,7 +397,7 @@ head.innerText = "Start with Scratch"
 
 ### Sample Image
 
-![Sample One](./Pic33.png)
+![Sample One](./image/dom26.png)
 
 ### Tasks
 
@@ -405,7 +405,7 @@ head.innerText = "Start with Scratch"
 
 ### Output
 
-![Output](./Pic32.png)
+![Output](./image/dom27.png)
 
 ```js
 let today = new Date;
@@ -421,7 +421,7 @@ btn.innerText = today
 
 ### Sample Image
 
-![Sample One](./Pic34.png)
+![Sample One](./image/dom28.png)
 
 ### Tasks
 
@@ -429,7 +429,7 @@ btn.innerText = today
 
 ### Output
 
-![Output](./Pic35.png)
+![Output](./image/dom29.png)
 
 ```js
 let foot2 = document.querySelector(".p-footer")
@@ -444,7 +444,7 @@ foot2.style.background = "#ff7f00"
 
 ### Sample Image
 
-![Sample One](./Pic36.png)
+![Sample One](./image/dom30.png)
 
 ### Tasks
 
@@ -452,7 +452,7 @@ foot2.style.background = "#ff7f00"
 
 ### Output
 
-![Output](./Pic37.png)
+![Output](./image/dom31.png)
 
 ```js
 document.querySelector(".logo").src
@@ -465,7 +465,7 @@ document.querySelector(".logo").src
 
 ### Sample Image
 
-![Sample One](./Pic38.png)
+![Sample One](./image/dom32.png)
 
 ### Tasks
 
@@ -473,7 +473,7 @@ document.querySelector(".logo").src
 
 ### Output
 
-![Output](./Pic39.png)
+![Output](./Pic33.png)
 
 ```js
 let desc = document.querySelector(".desc");
